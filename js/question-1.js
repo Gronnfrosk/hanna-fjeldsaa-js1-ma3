@@ -1,1 +1,1 @@
-//const getReminder = (a, b) => a % b;
+const getReminder = (a, b) => a % b;
